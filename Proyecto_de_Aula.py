@@ -272,12 +272,4 @@ if df is not None:
                         else:
                             st.info(suggestions.get('NEUTRAL'))
 
-     
-
-
-
-
-        
-
-
-#https://appopiniones-mqcekk8sjpymnxx39splef.streamlit.app/
+# 
